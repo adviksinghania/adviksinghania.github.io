@@ -15,5 +15,10 @@
 
 - role: Participant at CWoD'21
   company: Crio.Do
-  dates: January 9, 2021 - Present
+  dates: January 9, 2021 - January 24, 2021
   logo: cwod.png
+
+- role: Participant at LHD-Build
+  company: Major League Hacking
+  dates: January 10, 2021 - January 18, 2021
+  logo: mlh.svg
